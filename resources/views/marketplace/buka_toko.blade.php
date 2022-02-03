@@ -11,7 +11,7 @@
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 sm-margin-10px-bottom">
                     <div class=" bg-light-gray padding-20px-all ">
                         <div class="mt-5 text-center">
-                            <h2 class="login-title mb-2 ">Buka Tokomu Sekarangggggggg</h2>
+                            <h2 class="login-title mb-2 ">Buka Tokomu Sekarang</h2>
                             <h3 class="buka-toko">Mari bergabung bersama kami, mewujudkan kesejahteraan pangan negeri</h3>
                         </div>
                          <div class=" ">
